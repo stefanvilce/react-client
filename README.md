@@ -72,6 +72,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 
 The data come in this format fra Back-end:
+<pre>
 [
   {
     "id": 3,
@@ -101,3 +102,4 @@ The data come in this format fra Back-end:
     "modifiedAt": "2019-08-28 10:45:45"
   }
 ]
+</pre>
