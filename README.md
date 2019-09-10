@@ -66,3 +66,38 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+### ############### ############################################### ######
+
+
+The data come in this format fra Back-end:
+[
+  {
+    "id": 3,
+    "title": "Corsa Hotel",
+    "subtitle": "Mangalia",
+    "shortDescription": "It is a very interresting hotel on Black Sea Coast, in Romania.",
+    "lang": "en",
+    "publishedAt": "2019-08-28 10:45:36",
+    "modifiedAt": "2019-08-28 10:45:37"
+  },
+  {
+    "id": 3,
+    "title": "Neptun Hotel",
+    "subtitle": "Oslo",
+    "shortDescription": "It is a very interresting hotel in the middle of Oslo, Norway.",
+    "lang": "en",
+    "publishedAt": "2019-08-28 10:41:45",
+    "modifiedAt": "2019-08-28 10:42:56"
+  },
+  {
+    "id": 3,
+    "title": "The Savoy Hotel",
+    "subtitle": "London",
+    "shortDescription": "From 1889, The Savoy has helped create memories for generations of guests and colleagues. From that first kitchen job that led to international gastronomic success to families gathered together for Afternoon Tea, everyone has their own Savoy story.",
+    "lang": "en",
+    "publishedAt": "2019-08-19 11:29:53",
+    "modifiedAt": "2019-08-28 10:45:45"
+  }
+]
