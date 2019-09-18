@@ -71,7 +71,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 ### ############### ############################################### ######
 
 
-The data come in this format fra Back-end:
+The data come out in this format from Back-end:
 <pre>
 [
   {
